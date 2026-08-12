@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ez4smp.aternos.me:51223",
+    "ip": "ez4smp.aternos.me",
     "port": 51223,
     "version": "",
     "try-creative": false
